@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: devbrunofernandes/cicd-app-pb
-  newTag: 238706ba166923548c9b09ebb5f37e4bb4c0d682
+  newTag: aebccc5149f3ed059001d152c3a930cc7c80600a
