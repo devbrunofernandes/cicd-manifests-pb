@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: cicd-app-pb
-        image: devbrunofernandes/cicd-app-pb:238706ba166923548c9b09ebb5f37e4bb4c0d682
+        image: devbrunofernandes/cicd-app-pb:placeholder
         ports:
         - containerPort: 8000
 
